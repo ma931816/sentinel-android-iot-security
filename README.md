@@ -125,8 +125,7 @@ The Android implementation demonstrates the edge layer of the system. A future v
 
 ## Architecture
 
-![SENTINEL Architecture](<img width="1536" height="1024" alt="Architecture-diagram" src="https://github.com/user-attachments/assets/0889a791-5ebf-4a3a-8436-c7cb68767407" />
-)
+<img width="1536" height="1024" alt="Architecture-diagram" src="https://github.com/user-attachments/assets/0889a791-5ebf-4a3a-8436-c7cb68767407" />
 
 The current implementation follows this flow:
 
