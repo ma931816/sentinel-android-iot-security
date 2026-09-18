@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Architecture-diagram" src="https://github.com/user-attachments/assets/0889a791-5ebf-4a3a-8436-c7cb68767407" /># SENTINEL
+# SENTINEL
 
 ### Secure Edge & IoT Asset Monitoring with AWS
 
@@ -125,7 +125,7 @@ The Android implementation demonstrates the edge layer of the system. A future v
 
 ## Architecture
 
-![SENTINEL Architecture](<img width="1536" height="1024" alt="Architecture-diagram" src="https://github.com/user-attachments/assets/d7a9c88b-3b17-4a96-a686-3b40df3c1e83" />
+![SENTINEL Architecture](<img width="1536" height="1024" alt="Architecture-diagram" src="https://github.com/user-attachments/assets/0889a791-5ebf-4a3a-8436-c7cb68767407" />
 )
 
 The current implementation follows this flow:
